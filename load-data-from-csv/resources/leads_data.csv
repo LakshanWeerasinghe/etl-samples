@@ -1,0 +1,11 @@
+LeadID,FirstName,LastName,Email,Phone,Company,Status,Source,LeadScore,LeadOwner,LeadCreatedDate,LastContactDate,LastActivity,Converted,ConversionDate,OpportunityAmount,OpportunityStage
+1,John,Doe,johndoe@example.com,555-555-5555,ABC Inc,Open,Web,70,Alice,2023-01-15,2023-02-10,Email Sent,No,NA,NA,NA
+2,Jane,Smith,janesmith@example.com,555-555-5556,XYZ Ltd,Contacted,Phone,80,Bob,2023-01-20,2023-02-14,Call Made,No,NA,NA
+3,Michael,Johnson,michael@example.com,555-555-5557,123 Corp,Converted,Web,90,Charlie,2023-02-02,2023-02-25,Meeting Held,Yes,2023-03-10,10000,Closed Won
+4,Emily,Wilson,emily@example.com,555-555-5558,Sample Co,Open,Email,60,Alice,2023-02-05,2023-02-18,Email Sent,No,NA,NA
+5,David,Brown,david@example.com,555-555-5559,Test Inc,Contacted,Phone,75,Bob,2023-02-08,2023-02-22,Call Made,No,NA,NA
+6,Sarah,Miller,sarah@example.com,555-555-5560,NewBiz,Open,Web,65,Charlie,2023-02-10,2023-02-26,Email Sent,No,NA,NA
+7,James,Anderson,james@example.com,555-555-5561,ABC Inc,Converted,Web,95,Alice,2023-02-12,2023-03-02,Meeting Held,Yes,2023-03-20,7500,Closed Won
+8,Laura,Clark,laura@example.com,555-555-5562,XYZ Ltd,Contacted,Phone,70,Bob,2023-02-15,2023-03-05,Call Made,No,NA,NA
+9,Robert,Taylor,robert@example.com,555-555-5563,123 Corp,Open,Web,55,Charlie,2023-02-18,2023-03-10,Email Sent,No,NA,NA
+10,Olivia,Hall,olivia@example.com,555-555-5564,Sample Co,Contacted,Phone,85,Alice,2023-02-20,2023-03-14,Call Made,No,NA,NA
